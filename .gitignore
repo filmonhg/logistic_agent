@@ -1,0 +1,7 @@
+logistics-venv/
+.env
+__pycache__/
+*.pyc
+lambda/function.zip
+/tmp/
+response.json
